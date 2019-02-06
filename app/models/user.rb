@@ -32,4 +32,3 @@ class User < ApplicationRecord
   end 
 end
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
